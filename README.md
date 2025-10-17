@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software developer passionate about Open Source Software, Linux and Quantum Computing. [![Interests](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)
+I'm a engineer passionate about Open Source Software, Linux and Quantum Computing. [![Interests](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)
 <br>
 💬 Ask me about: **Any of [my repositories](https://github.com/Luka-D?tab=repositories)**
 
