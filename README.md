@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm a engineer passionate about Open Source Software, Linux and Quantum Computing. [![Interests](https://skillicons.dev/icons?i=linux,mint)](https://skillicons.dev)
+I'm a engineer passionate about Open Source Software, Linux and Quantum Computing. [![Interests](https://skillicons.dev/icons?i=mint)](https://skillicons.dev)
 <br>
 💬 Ask me about: **Any of [my repositories](https://github.com/Luka-D?tab=repositories)**
 
 ### Languages
 <hr>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,js,css,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,js,css,matlab" />
 </p>
 
 ### Tools
